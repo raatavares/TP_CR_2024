@@ -1,611 +1,611 @@
-﻿id;gender;age;hypertension;heart_disease;ever_married;Residence_type;avg_glucose_level;bmi;smoking_status;stroke
-1;Male;67;0;1;Yes;Urban;228.69;36.6;formerly smoked;1
-2;Female;61;0;0;Yes;Rural;202.21;48.2;never smoked;1
-3;Male;80;0;1;Yes;Rural;105.92;32.5;never smoked;1
-4;Female;49;0;0;Yes;Urban;171.23;34.4;smokes;1
-6;Male;81;0;0;Yes;Urban;186.21;29;formerly smoked;1
-7;Male;74;1;1;Yes;Rural;70.09;27.4;never smoked;1
-8;Female;69;0;0;No;Urban;94.39;22.8;never smoked;NA
-9;Female;59;0;0;Yes;Rural;76.15;48.2;Unknown;1
-10;Female;78;0;0;Yes;Urban;58.57;24.2;Unknown;1
-11;Female;81;1;0;Yes;Rural;80.43;29.7;never smoked;1
-12;Female;61;0;1;Yes;Rural;120.46;36.8;smokes;1
-13;Female;54;0;0;Yes;Urban;104.51;27.3;smokes;1
-14;Male;78;0;1;Yes;Urban;219.84;48.2;Unknown;1
-15;Female;79;0;1;Yes;Urban;214.09;28.2;never smoked;1
-16;Female;50;1;0;Yes;Rural;167.41;30.9;never smoked;1
-18;Male;75;1;0;Yes;Urban;221.29;25.8;smokes;1
-19;Female;60;0;0;No;Urban;89.22;37.8;never smoked;1
-20;Male;57;0;1;No;Urban;217.08;48.2;Unknown;1
-21;Female;71;0;0;Yes;Rural;193.94;22.4;smokes;1
-22;Female;52;1;0;Yes;Urban;233.29;48.9;never smoked;1
-23;Female;79;0;0;Yes;Urban;228.7;26.6;never smoked;1
-24;Male;82;0;1;Yes;Rural;208.3;32.5;Unknown;1
-25;Male;71;0;0;Yes;Urban;102.87;27.2;formerly smoked;1
-26;Male;80;0;0;Yes;Rural;104.12;23.5;never smoked;1
-27;Female;65;0;0;Yes;Rural;100.98;28.2;formerly smoked;1
-29;Male;69;0;1;Yes;Urban;195.23;28.3;smokes;1
-30;Male;59;0;0;Yes;Rural;211.78;48.2;formerly smoked;1
-31;Male;57;1;0;Yes;Urban;212.08;44.2;smokes;1
-32;Male;42;0;0;Yes;Rural;83.41;25.4;Unknown;1
-33;Female;82;1;0;Yes;Urban;196.92;22.2;never smoked;1
-34;Male;80;0;1;Yes;Urban;252.72;30.5;formerly smoked;1
-35;Male;48;0;0;No;Urban;84.2;29.7;never smoked;1
-36;Female;82;1;1;No;Rural;84.03;26.5;formerly smoked;1
-37;Male;74;0;0;Yes;Rural;219.72;33.7;formerly smoked;1
-38;Female;72;1;0;Yes;Rural;74.63;23.1;formerly smoked;1
-39;Male;58;0;0;No;Rural;92.62;32;Unknown;1
-40;Female;49;0;0;Yes;Urban;60.91;29.9;never smoked;1
-41;Male;78;0;0;Yes;Rural;78.03;23.9;formerly smoked;1
-42;Male;54;0;0;Yes;Urban;71.22;28.5;never smoked;1
-43;Male;82;0;1;Yes;Urban;144.9;26.4;smokes;1
-44;Female;63;0;0;Yes;Urban;90.9;48.2;formerly smoked;1
-45;Male;60;1;0;Yes;Urban;213.03;20.2;smokes;1
-46;Male;76;1;0;Yes;Rural;243.58;33.6;never smoked;1
-47;Female;75;0;1;No;Urban;109.78;48.2;Unknown;1
-48;Female;58;0;0;Yes;Urban;107.26;38.6;formerly smoked;1
-49;Male;81;0;0;Yes;Urban;99.33;33.7;never smoked;1
-50;Female;39;1;0;Yes;Rural;58.09;39.2;smokes;1
-51;Female;76;0;0;No;Urban;89.96;48.2;Unknown;1
-52;Male;78;1;0;Yes;Urban;75.32;48.2;formerly smoked;1
-53;Female;79;0;1;Yes;Rural;127.29;27.7;never smoked;1
-54;Female;77;1;0;Yes;Urban;124.13;31.4;never smoked;1
-55;Female;63;0;0;Yes;Urban;197.54;48.2;never smoked;1
-56;Male;63;0;1;Yes;Rural;196.71;36.5;formerly smoked;1
-57;Female;82;0;0;Yes;Rural;59.32;33.2;never smoked;1
-58;Male;78;0;0;Yes;Urban;237.75;48.2;formerly smoked;1
-59;Male;73;1;0;Yes;Urban;194.99;32.8;never smoked;1
-60;Female;54;1;0;Yes;Urban;180.93;27.7;never smoked;1
-61;Female;56;0;0;Yes;Urban;185.17;40.4;formerly smoked;1
-62;Female;80;1;0;Yes;Rural;74.9;22.2;never smoked;1
-63;Female;67;1;0;Yes;Rural;61.94;25.3;smokes;1
-64;Female;45;0;0;Yes;Rural;93.72;30.2;formerly smoked;1
-65;Male;75;0;0;Yes;Urban;104.72;48.2;Unknown;1
-66;Male;78;1;0;No;Urban;113.01;24;never smoked;1
-67;Female;70;0;0;Yes;Urban;221.58;47.5;never smoked;1
-68;Male;76;0;0;Yes;Urban;104.47;20.3;Unknown;1
-69;Male;59;0;0;Yes;Urban;86.23;30;formerly smoked;1
-70;Female;80;1;0;Yes;Rural;72.67;28.9;never smoked;1
-71;Female;76;0;0;Yes;Rural;62.57;48.2;formerly smoked;1
-72;Female;67;1;0;Yes;Rural;179.12;28.1;formerly smoked;1
-73;Female;66;1;0;Yes;Rural;116.55;31.1;formerly smoked;1
-74;Male;63;0;0;Yes;Rural;228.56;27.4;never smoked;1
-75;Female;52;0;0;Yes;Rural;96.59;26.4;never smoked;1
-76;Female;80;0;1;Yes;Rural;66.72;21.7;formerly smoked;1
-77;Male;80;1;0;Yes;Urban;240.09;27;never smoked;1
-78;Female;79;0;0;Yes;Urban;110.85;24.1;formerly smoked;1
-79;Female;51;0;0;Yes;Urban;165.31;48.2;never smoked;1
-80;Male;43;0;0;Yes;Urban;143.43;45.9;Unknown;1
-81;Male;59;0;0;Yes;Rural;96.16;44.1;Unknown;1
-83;Female;79;0;0;No;Rural;88.92;22.9;never smoked;1
-84;Female;68;1;0;No;Urban;79.79;29.7;never smoked;1
-85;Male;58;0;0;Yes;Urban;71.2;48.2;Unknown;1
-86;Male;54;0;0;Yes;Rural;96.97;29.1;smokes;1
-88;Female;70;0;1;Yes;Rural;59.35;32.3;formerly smoked;1
-89;Male;47;0;0;Yes;Urban;86.94;41.1;formerly smoked;1
-90;Male;74;0;0;Yes;Urban;98.55;25.6;Unknown;1
-91;Female;79;0;1;Yes;Urban;226.98;29.8;never smoked;1
-92;Male;81;0;0;Yes;Urban;72.81;26.3;never smoked;1
-93;Female;57;0;0;No;Urban;68.02;37.5;never smoked;1
-94;Female;80;1;0;Yes;Urban;68.56;26.2;Unknown;1
-95;Male;45;0;0;Yes;Rural;64.14;29.4;never smoked;1
-96;Female;78;0;0;Yes;Rural;235.63;32.3;never smoked;1
-97;Female;70;0;0;Yes;Rural;76.34;24.4;formerly smoked;1
-98;Male;58;0;1;Yes;Rural;240.59;31.4;smokes;1
-99;Male;57;1;0;Yes;Urban;78.92;27.7;formerly smoked;1
-100;Female;69;0;0;Yes;Urban;82.81;28;never smoked;1
-101;Male;64;0;1;Yes;Urban;74.1;28.8;Unknown;1
-102;Female;77;0;0;Yes;Rural;190.32;31.4;never smoked;1
-103;Female;74;0;0;Yes;Rural;231.61;34.6;formerly smoked;1
-104;Female;81;0;1;Yes;Rural;78.7;19.4;Unknown;1
-105;Female;57;0;0;Yes;Urban;110.52;28.5;Unknown;1
-106;Male;58;0;0;Yes;Urban;82.3;48.2;smokes;1
-107;Female;50;1;0;Yes;Rural;73.18;30.3;formerly smoked;1
-108;Female;54;0;0;Yes;Rural;191.82;40.4;smokes;1
-109;Female;79;0;0;Yes;Rural;93.05;24.2;never smoked;1
-110;Female;53;0;0;Yes;Urban;64.17;41.5;never smoked;1
-111;Male;79;0;1;Yes;Rural;129.98;22.6;formerly smoked;1
-112;Male;80;0;1;Yes;Urban;68.53;24.2;smokes;1
-113;Female;76;0;0;Yes;Urban;106.41;48.2;formerly smoked;1
-114;Female;45;0;0;Yes;Rural;224.1;56.6;never smoked;1
-115;Female;68;0;0;No;Urban;82.1;27.1;Unknown;1
-116;Male;71;1;1;No;Rural;216.94;30.9;never smoked;1
-117;Male;61;1;0;Yes;Rural;76.11;27.3;smokes;1
-118;Male;74;0;0;Yes;Urban;72.96;31.3;smokes;1
-119;Female;38;0;0;No;Urban;82.28;24;formerly smoked;1
-120;Female;77;0;0;Yes;Urban;105.22;31;never smoked;NA
-121;Female;58;0;0;Yes;Rural;59.86;28;formerly smoked;1
-122;Female;53;1;0;Yes;Urban;62.55;30.3;Unknown;1
-123;Male;80;0;0;Yes;Rural;259.63;31.7;smokes;1
-124;Male;56;1;0;Yes;Rural;249.31;35.8;never smoked;1
-125;Female;72;0;0;Yes;Urban;219.91;48.2;Unknown;1
-126;Female;72;0;0;Yes;Urban;131.41;28.4;never smoked;1
-127;Male;78;1;0;Yes;Urban;93.13;48.2;formerly smoked;1
-128;Female;80;0;0;Yes;Urban;73.54;24;Unknown;1
-129;Male;82;0;0;Yes;Urban;200.59;29;formerly smoked;1
-130;Female;75;0;0;Yes;Urban;62.48;48.2;Unknown;1
-131;Female;73;1;0;Yes;Rural;190.14;36.5;never smoked;1
-132;Female;78;1;0;No;Urban;130.54;20.1;never smoked;1
-133;Male;69;1;0;No;Rural;182.99;36.5;never smoked;1
-134;Female;38;0;0;Yes;Rural;101.45;48.2;formerly smoked;1
-135;Female;68;1;0;Yes;Rural;206.09;26.7;never smoked;1
-136;Female;71;0;0;Yes;Urban;263.32;38.7;never smoked;1
-137;Male;76;0;0;Yes;Urban;140.1;29.9;formerly smoked;1
-138;Female;76;0;0;Yes;Urban;207.28;34.9;Unknown;1
-139;Male;76;1;0;Yes;Rural;194.37;27;formerly smoked;1
-140;Female;75;0;0;Yes;Rural;199.2;26.6;Unknown;1
-141;Male;82;0;1;Yes;Rural;103.68;25;never smoked;1
-142;Female;59;0;0;Yes;Rural;116.44;23.8;smokes;1
-143;Female;74;1;0;Yes;Urban;70.28;21.8;never smoked;1
-144;Female;69;1;1;No;Urban;72.17;36.8;never smoked;1
-145;Female;72;1;0;Yes;Urban;221.79;30;never smoked;1
-146;Male;66;0;0;Yes;Urban;151.16;27.5;formerly smoked;1
-147;Male;65;0;0;Yes;Urban;68.43;48.2;formerly smoked;1
-148;Female;78;0;0;Yes;Urban;67.29;24.6;never smoked;1
-149;Female;57;1;0;Yes;Rural;67.41;32.9;never smoked;1
-150;Female;70;0;1;Yes;Rural;239.07;26.1;never smoked;1
-151;Female;79;0;0;Yes;Rural;169.67;48.2;Unknown;1
-152;Male;68;0;1;Yes;Urban;223.83;31.9;formerly smoked;1
-153;Female;80;0;0;Yes;Urban;76.57;34.1;never smoked;1
-154;Male;68;0;0;Yes;Urban;77.82;27.5;smokes;1
-155;Female;55;0;0;Yes;Rural;92.98;25.6;never smoked;1
-156;Female;77;0;1;Yes;Rural;231.56;36.9;never smoked;1
-157;Female;50;0;0;Yes;Rural;102.16;31.4;smokes;1
-158;Female;57;0;0;Yes;Urban;221.89;37.3;smokes;1
-159;Female;71;0;0;Yes;Urban;195.71;34.1;formerly smoked;1
-160;Female;81;1;0;Yes;Rural;74.02;25;never smoked;1
-161;Female;76;0;0;Yes;Urban;57.92;48.2;formerly smoked;1
-162;Male;71;0;1;Yes;Urban;81.76;48.2;smokes;1
-163;Female;1.32;0;0;No;Urban;70.37;48.2;Unknown;1
-164;Female;78;1;0;No;Urban;203.87;45.7;never smoked;1
-165;Female;70;1;0;Yes;Urban;89.13;34.2;formerly smoked;1
-166;Male;78;0;0;Yes;Urban;133.19;23.6;formerly smoked;NA
-167;Female;56;0;0;Yes;Rural;162.23;27.3;Unknown;1
-168;Male;79;1;0;Yes;Rural;75.02;48.2;never smoked;1
-169;Female;79;1;0;No;Urban;98.02;22.3;formerly smoked;1
-170;Male;81;0;0;Yes;Rural;91.54;31.4;never smoked;1
-171;Male;64;0;0;Yes;Rural;111.98;48.2;formerly smoked;1
-172;Female;79;1;1;No;Rural;60.94;48.2;never smoked;1
-173;Female;60;0;0;Yes;Urban;97.43;26.4;smokes;1
-174;Female;80;1;0;Yes;Rural;91.02;32.9;formerly smoked;1
-175;Female;78;0;0;Yes;Rural;60.67;48.2;formerly smoked;1
-176;Male;72;1;0;Yes;Rural;185.49;37.1;never smoked;1
-177;Female;80;0;0;Yes;Urban;64.44;45;never smoked;1
-178;Male;78;1;0;Yes;Rural;56.11;25.5;formerly smoked;1
-179;Female;80;0;0;Yes;Urban;110.66;48.2;Unknown;NA
-180;Male;81;0;0;Yes;Urban;213.22;26.1;Unknown;1
-181;Female;46;0;0;Yes;Urban;78.18;30.8;never smoked;1
-182;Male;59;0;0;Yes;Urban;111.04;32;formerly smoked;1
-183;Female;32;0;0;Yes;Rural;76.13;29.9;smokes;1
-184;Female;77;0;0;No;Urban;81.32;48.2;Unknown;1
-185;Male;61;1;1;Yes;Urban;112.24;37.4;smokes;1
-186;Male;63;0;0;Yes;Rural;137.3;31.7;formerly smoked;1
-187;Male;63;0;1;Yes;Urban;116.69;34.5;formerly smoked;1
-188;Female;82;1;1;Yes;Urban;215.94;27.9;formerly smoked;1
-189;Male;82;0;0;Yes;Rural;86.62;29.5;formerly smoked;1
-190;Male;61;0;1;Yes;Urban;209.86;48.2;Unknown;1
-191;Female;65;0;0;Yes;Urban;205.77;46;formerly smoked;1
-192;Male;51;1;0;Yes;Urban;112.16;42.5;formerly smoked;1
-193;Male;59;0;0;Yes;Rural;118.03;35.5;smokes;1
-194;Male;68;1;1;Yes;Rural;271.74;31.1;smokes;1
-195;Female;72;0;0;Yes;Rural;97.92;26.9;smokes;1
-196;Male;59;0;0;Yes;Urban;200.62;35.8;formerly smoked;1
-197;Male;70;1;0;Yes;Rural;242.52;45.5;formerly smoked;1
-198;Male;69;0;0;Yes;Rural;93.81;28.5;Unknown;1
-199;Male;79;0;0;Yes;Rural;114.77;48.2;formerly smoked;1
-200;Female;74;0;0;Yes;Urban;74.96;26.6;never smoked;1
-201;Male;74;0;0;Yes;Urban;167.13;48.2;Unknown;1
-202;Male;80;1;1;Yes;Urban;175.29;31.5;formerly smoked;1
-203;Female;77;0;0;Yes;Rural;90;32;never smoked;1
-204;Female;78;0;0;Yes;Rural;109.47;30.8;never smoked;1
-205;Male;54;0;0;Yes;Rural;87.85;31.1;smokes;1
-206;Female;78;0;0;Yes;Urban;106.74;33;formerly smoked;1
-207;Female;81;0;0;Yes;Rural;80.13;23.4;never smoked;1
-208;Male;78;0;0;No;Urban;90.19;26.9;never smoked;1
-209;Male;78;1;0;Yes;Rural;134.8;33.6;Unknown;1
-210;Female;63;0;0;Yes;Rural;106.58;23.9;Unknown;1
-211;Female;39;0;0;Yes;Urban;83.24;26.3;never smoked;1
-212;Female;51;0;0;Yes;Rural;103.43;27.3;formerly smoked;1
-213;Male;63;0;0;Yes;Urban;208.65;30.7;never smoked;1
-214;Female;48;0;0;Yes;Urban;74.11;20.5;never smoked;1
-215;Female;81;0;0;Yes;Urban;95.84;21.5;never smoked;1
-216;Female;79;0;1;No;Urban;205.33;31;smokes;1
-217;Male;78;0;0;Yes;Urban;116.1;27.1;never smoked;1
-218;Female;55;1;1;Yes;Urban;210.4;40;smokes;1
-219;Female;76;1;1;Yes;Urban;199.86;48.2;smokes;1
-220;Male;73;0;1;Yes;Rural;219.73;28.6;never smoked;1
-221;Male;81;1;1;Yes;Urban;250.89;28.1;smokes;1
-222;Male;79;0;0;Yes;Rural;72.73;28.4;never smoked;1
-223;Female;63;0;0;Yes;Rural;205.35;42.2;formerly smoked;1
-224;Female;81;0;0;No;Urban;70.3;25.8;smokes;1
-225;Male;49;0;0;No;Rural;104.86;31.9;smokes;1
-226;Female;57;0;1;Yes;Urban;216.58;31;Unknown;1
-227;Female;81;0;0;Yes;Rural;184.4;27.5;never smoked;1
-228;Male;74;0;0;Yes;Rural;60.98;48.2;never smoked;1
-229;Female;39;0;0;Yes;Urban;97.76;29.6;smokes;1
-230;Female;80;1;0;No;Urban;66.03;35.4;never smoked;1
-231;Female;81;0;0;Yes;Rural;81.95;16.9;never smoked;1
-232;Female;79;0;0;Yes;Urban;97.73;21.5;smokes;1
-233;Female;73;0;0;Yes;Urban;70.94;34.4;never smoked;1
-234;Female;77;1;0;Yes;Urban;199.84;28;formerly smoked;1
-235;Male;78;0;0;Yes;Urban;218.46;26.8;Unknown;NA
-236;Female;68;0;0;Yes;Rural;211.06;39.3;Unknown;1
-237;Male;57;0;0;Yes;Urban;86.3;31.7;Unknown;1
-238;Male;77;0;0;Yes;Rural;162.14;32.6;formerly smoked;1
-239;Female;51;1;0;Yes;Urban;88.2;28.4;never smoked;1
-240;Male;60;0;1;Yes;Urban;91.92;35.9;smokes;1
-241;Male;66;0;0;Yes;Rural;76.46;21.2;formerly smoked;1
-242;Male;57;0;0;Yes;Rural;197.28;34.5;formerly smoked;1
-243;Male;68;0;0;Yes;Rural;233.94;42.4;never smoked;1
-244;Female;68;1;1;Yes;Urban;247.51;40.5;formerly smoked;1
-245;Male;57;0;0;Yes;Rural;84.96;36.7;Unknown;1
-246;Female;14;0;0;No;Rural;57.93;30.9;Unknown;1
-247;Female;75;0;0;Yes;Rural;78.8;29.3;formerly smoked;1
-248;Male;71;1;0;Yes;Rural;87.8;48.2;Unknown;1
-249;Female;78;0;0;Yes;Rural;78.81;19.6;Unknown;1
-250;Male;3;0;0;No;Rural;95.12;18;Unknown;0
-251;Male;58;1;0;Yes;Urban;87.96;39.2;never smoked;0
-252;Female;8;0;0;No;Urban;110.89;17.6;Unknown;0
-253;Female;70;0;0;Yes;Rural;69.04;35.9;formerly smoked;0
-254;Male;14;0;0;No;Rural;161.28;19.1;Unknown;0
-255;Female;47;0;0;Yes;Urban;210.95;50.1;Unknown;0
-256;Female;52;0;0;Yes;Urban;77.59;17.7;formerly smoked;0
-257;Female;75;0;1;Yes;Rural;243.53;27;never smoked;0
-258;Female;32;0;0;Yes;Rural;77.67;32.3;smokes;0
-259;Female;74;1;0;Yes;Urban;205.84;54.6;never smoked;0
-260;Female;79;0;0;Yes;Urban;77.08;35;Unknown;0
-261;Male;79;0;1;Yes;Urban;57.08;22;formerly smoked;0
-262;Female;37;0;0;Yes;Rural;162.96;39.4;never smoked;0
-263;Female;37;0;0;Yes;Rural;73.5;26.1;formerly smoked;0
-264;Female;40;0;0;Yes;Rural;95.04;42.4;never smoked;0
-265;Male;35;0;0;No;Rural;85.37;33;never smoked;0
-266;Female;20;0;0;No;Urban;84.62;19.7;smokes;0
-267;Female;42;0;0;Yes;Rural;82.67;22.5;never smoked;0
-268;Female;44;0;0;Yes;Urban;57.33;24.6;smokes;0
-269;Female;79;0;1;Yes;Urban;67.84;25.2;smokes;0
-270;Female;65;1;0;Yes;Rural;75.7;41.8;Unknown;0
-271;Female;57;1;0;Yes;Rural;129.54;60.9;smokes;0
-272;Female;49;0;0;Yes;Rural;60.22;31.5;smokes;0
-273;Male;71;0;0;Yes;Urban;198.21;27.3;formerly smoked;0
-274;Female;59;0;0;Yes;Urban;109.82;23.7;never smoked;0
-275;Female;25;0;0;Yes;Urban;60.84;24.5;never smoked;0
-276;Female;67;0;0;Yes;Rural;94.61;28.4;smokes;0
-277;Female;38;0;0;No;Rural;97.49;26.9;never smoked;0
-278;Female;54;0;0;Yes;Rural;206.72;26.7;never smoked;0
-279;Female;70;0;0;Yes;Rural;214.45;31.2;never smoked;0
-280;Male;27;0;0;Yes;Urban;82.9;25;Unknown;0
-281;Female;47;0;0;Yes;Urban;103.26;25.4;Unknown;0
-282;Male;58;1;0;No;Urban;55.78;27.5;smokes;0
-283;Female;3;0;0;No;Urban;73.74;16;Unknown;0
-284;Female;58;0;0;Yes;Urban;149.75;27;Unknown;0
-285;Male;14;0;0;No;Urban;82.34;31.6;Unknown;0
-286;Female;32;0;0;Yes;Rural;62.6;25.1;formerly smoked;0
-287;Female;23;0;0;No;Urban;94.09;30.9;never smoked;NA
-288;Female;55;0;0;Yes;Urban;55.42;24.8;Unknown;0
-289;Female;17;0;0;No;Urban;82.18;23.4;Unknown;0
-290;Male;59;0;0;Yes;Urban;117.92;29.4;smokes;0
-291;Male;13;0;0;No;Urban;114.84;18.3;Unknown;NA
-292;Male;4;0;0;No;Rural;79.17;20;Unknown;0
-293;Female;16;0;0;No;Rural;110.63;19.5;Unknown;0
-294;Male;67;0;0;Yes;Urban;190.7;36;formerly smoked;0
-295;Female;22;0;0;No;Rural;79.81;27.7;Unknown;0
-296;Female;45;0;0;Yes;Urban;113.63;27.5;smokes;0
-297;Female;66;0;0;Yes;Rural;141.24;28.5;never smoked;0
-298;Male;58;1;0;Yes;Rural;56.96;26.8;smokes;0
-299;Male;69;0;0;Yes;Rural;203.04;33.6;never smoked;0
-300;Female;58;0;0;Yes;Rural;94.3;29.1;Unknown;0
-301;Female;53;0;0;Yes;Urban;81.51;28.5;Unknown;0
-302;Female;78;0;0;No;Urban;137.74;34.9;formerly smoked;NA
-303;Male;44;0;0;Yes;Rural;81.84;25.1;never smoked;0
-304;Male;66;0;0;Yes;Rural;242.3;35.3;smokes;0
-305;Male;27;0;0;Yes;Rural;102.64;26.4;smokes;0
-306;Male;43;0;0;Yes;Urban;146.01;31.5;smokes;0
-307;Female;13;0;0;No;Urban;75.42;40.1;Unknown;0
-308;Male;51;0;0;Yes;Urban;220.49;43.1;Unknown;0
-309;Female;30;0;0;Yes;Urban;61.45;36.7;smokes;0
-310;Male;46;0;0;Yes;Rural;88.19;29.3;formerly smoked;0
-311;Female;43;0;0;Yes;Rural;115.22;21.2;Unknown;0
-312;Female;79;0;0;Yes;Urban;97.93;31.2;Unknown;0
-313;Female;27;0;0;Yes;Rural;85.6;21.4;Unknown;0
-314;Female;38;0;0;Yes;Rural;79.83;27.9;smokes;0
-315;Female;78;1;0;Yes;Urban;218.46;34.3;never smoked;0
-316;Male;57;0;1;Yes;Rural;62.2;31;formerly smoked;0
-317;Male;61;0;0;Yes;Urban;69.15;27.7;formerly smoked;0
-318;Female;37;1;0;Yes;Rural;127.71;36;never smoked;0
-319;Female;48;0;0;Yes;Rural;216.7;38.7;formerly smoked;0
-320;Female;29;0;0;No;Urban;71.89;27.6;never smoked;0
-321;Male;22;0;0;No;Rural;103.56;25.1;Unknown;0
-322;Male;11;0;0;No;Rural;79.03;16.5;Unknown;0
-323;Female;22;0;0;No;Urban;69.94;22.8;Unknown;0
-324;Male;53;0;0;Yes;Rural;90.12;35.4;Unknown;0
-325;Male;27;0;0;No;Urban;95.1;24.3;formerly smoked;0
-326;Male;76;0;0;Yes;Rural;234.58;34.3;formerly smoked;0
-327;Female;57;1;0;Yes;Rural;235.85;40.1;never smoked;0
-328;Male;8;0;0;No;Rural;78.05;25.7;Unknown;0
-329;Female;21;0;0;No;Rural;89.44;21.9;smokes;0
-330;Female;18;0;0;No;Rural;111.38;38.4;smokes;NA
-331;Female;78;0;0;Yes;Urban;243.5;26.1;never smoked;0
-332;Female;78;1;0;Yes;Urban;182.2;30.5;formerly smoked;0
-333;Male;33;0;0;Yes;Urban;229.92;25.9;smokes;0
-334;Female;52;0;0;Yes;Urban;82.24;54.7;formerly smoked;0
-335;Female;51;0;0;Yes;Rural;89.84;29.9;Unknown;0
-336;Male;11;0;0;No;Rural;90.69;18.6;Unknown;0
-337;Female;48;0;0;Yes;Urban;84.38;27.1;Unknown;0
-338;Female;82;0;1;No;Urban;215.6;24.9;never smoked;0
-339;Female;54;0;0;Yes;Rural;91.61;25.2;never smoked;0
-340;Female;49;0;0;Yes;Rural;138.16;19.4;never smoked;0
-341;Female;24;0;0;Yes;Urban;75.23;29;never smoked;0
-342;Female;37;0;0;Yes;Rural;75.18;48.2;formerly smoked;0
-343;Male;34;0;1;Yes;Urban;106.23;48.2;formerly smoked;0
-344;Male;64;0;0;Yes;Urban;239.64;34.6;formerly smoked;0
-345;Female;66;0;0;Yes;Urban;58.95;24.6;never smoked;0
-346;Female;23;0;0;No;Urban;99.92;25.8;never smoked;0
-347;Male;68;0;0;Yes;Rural;116.23;26.1;never smoked;0
-348;Female;55;0;0;Yes;Urban;118.82;29;formerly smoked;0
-349;Female;25;0;0;No;Rural;66.3;27.2;never smoked;0
-350;Female;48;0;0;No;Urban;101.41;20.7;smokes;0
-351;Female;79;1;1;Yes;Urban;200.28;30;formerly smoked;0
-352;Female;47;0;0;Yes;Urban;136.8;37.3;never smoked;0
-353;Female;20;0;0;No;Rural;96.57;34.1;never smoked;0
-354;Female;60;0;0;Yes;Rural;66.42;23.6;never smoked;0
-355;Female;32;0;0;Yes;Urban;98.09;25.2;smokes;0
-356;Female;66;1;0;Yes;Rural;205.23;39.5;never smoked;0
-357;Male;43;0;0;Yes;Urban;86.78;23.5;smokes;0
-358;Female;36;0;0;No;Rural;126.82;23.3;never smoked;0
-359;Male;52;0;0;Yes;Urban;78.4;64.8;never smoked;0
-360;Female;29;0;0;Yes;Urban;63.69;28.1;smokes;0
-361;Female;76;1;0;Yes;Urban;209.58;48.2;never smoked;0
-362;Female;39;0;0;Yes;Rural;89.86;24.4;never smoked;0
-363;Male;76;0;0;Yes;Rural;110.99;29.8;formerly smoked;0
-364;Female;0.64;0;0;No;Urban;83.82;24.9;Unknown;0
-365;Male;34;0;0;Yes;Urban;137.96;35.1;Unknown;0
-366;Female;72;0;0;Yes;Rural;210.78;32.3;formerly smoked;0
-367;Female;43;0;0;Yes;Rural;118.89;43.6;never smoked;0
-368;Female;57;0;0;No;Rural;72.55;21;never smoked;0
-369;Female;44;0;0;Yes;Rural;107.41;47.3;never smoked;0
-370;Female;4;0;0;No;Rural;93.25;16.6;Unknown;0
-371;Male;44;0;0;Yes;Rural;74.91;37.5;never smoked;0
-372;Female;18;0;0;No;Urban;80.05;24.2;never smoked;0
-373;Male;41;0;0;Yes;Urban;99.8;31.6;never smoked;0
-374;Female;23;0;0;Yes;Rural;91.97;21.6;formerly smoked;0
-375;Female;53;0;0;Yes;Rural;64.4;31;smokes;0
-376;Male;56;0;0;Yes;Rural;73.02;31.1;never smoked;0
-377;Female;0.88;0;0;No;Rural;88.11;15.5;Unknown;0
-378;Male;25;0;0;No;Urban;138.29;27.3;Unknown;0
-379;Female;14;0;0;No;Rural;72.36;20.5;Unknown;0
-380;Female;53;0;0;Yes;Rural;68.76;35.6;formerly smoked;0
-381;Male;4;0;0;No;Rural;106.22;16.7;Unknown;0
-382;Female;39;0;0;Yes;Urban;101.52;41.8;never smoked;0
-383;Male;53;1;1;Yes;Rural;109.51;41.9;never smoked;0
-384;Male;5;0;0;No;Rural;85.84;16.4;Unknown;0
-385;Male;4;0;0;No;Rural;110.15;17.1;Unknown;0
-386;Female;37;0;0;Yes;Urban;91.72;29.2;never smoked;0
-387;Male;70;1;0;Yes;Urban;251.6;27.1;never smoked;0
-388;Male;24;0;0;No;Urban;123.1;37.9;never smoked;0
-389;Male;55;0;0;Yes;Rural;97.4;44.6;formerly smoked;NA
-390;Female;70;0;0;Yes;Rural;68.34;22.8;formerly smoked;0
-391;Male;34;0;0;Yes;Urban;80.81;33.2;never smoked;0
-392;Male;26;0;0;Yes;Rural;120.31;22.3;smokes;0
-393;Female;39;0;0;Yes;Rural;83.51;26.4;never smoked;0
-394;Male;38;0;0;No;Urban;74.09;39.6;never smoked;0
-395;Female;20;0;0;No;Urban;91.6;28.1;never smoked;0
-396;Female;17;0;0;No;Urban;87.52;39.2;never smoked;0
-397;Male;60;1;0;Yes;Rural;213.37;36;never smoked;0
-398;Female;75;0;0;Yes;Rural;75.39;37.8;never smoked;0
-399;Female;31;0;0;Yes;Rural;122.41;40.3;smokes;0
-400;Male;58;1;0;Yes;Rural;223.36;41.5;formerly smoked;0
-401;Female;5;0;0;No;Rural;84.59;17.7;Unknown;0
-402;Female;13;0;0;No;Urban;70.16;21.2;never smoked;0
-403;Female;22;0;0;No;Rural;107.52;41.6;Unknown;0
-404;Female;52;0;0;Yes;Urban;80.88;23.8;smokes;0
-405;Female;61;0;0;Yes;Rural;93.48;23.7;Unknown;0
-406;Female;78;0;1;Yes;Urban;70.21;24.8;never smoked;0
-407;Male;57;0;0;Yes;Rural;86.67;39;Unknown;0
-408;Female;21;0;0;Yes;Rural;101.37;37.9;never smoked;0
-409;Female;22;0;0;Yes;Rural;105.22;31.1;never smoked;0
-410;Female;80;0;0;Yes;Rural;70.31;23.2;Unknown;0
-411;Male;7;0;0;No;Rural;64.06;18.9;Unknown;0
-412;Male;64;1;0;Yes;Rural;178.29;36.1;never smoked;0
-413;Female;64;0;0;No;Rural;81.6;36.3;smokes;0
-414;Female;38;0;0;Yes;Urban;147.48;40.5;Unknown;0
-415;Male;12;0;0;No;Urban;86.86;25.4;never smoked;0
-416;Female;33;0;0;Yes;Rural;71.16;46.5;smokes;0
-417;Female;3;0;0;No;Urban;73.2;16.8;Unknown;0
-418;Female;37;0;0;Yes;Urban;203.81;46.6;never smoked;0
-419;Female;22;0;0;No;Rural;82;26.4;never smoked;0
-420;Female;24;0;0;No;Urban;97.55;26.2;never smoked;0
-421;Male;75;0;0;Yes;Urban;94.29;35.2;Unknown;0
-422;Female;12;0;0;No;Rural;75.22;20.9;Unknown;0
-423;Male;63;0;0;Yes;Urban;90.07;36.8;Unknown;0
-424;Female;52;0;0;Yes;Urban;73.73;34.4;formerly smoked;0
-425;Female;68;0;0;Yes;Urban;79.58;22.2;never smoked;0
-426;Female;5;0;0;No;Urban;77.88;13.8;Unknown;0
-427;Female;56;1;0;Yes;Rural;205.26;40.3;never smoked;0
-428;Female;43;0;0;Yes;Rural;58.63;28.4;smokes;0
-429;Female;40;0;0;Yes;Rural;139.9;31.7;smokes;0
-430;Male;53;0;0;Yes;Urban;211.03;34.2;formerly smoked;0
-431;Female;52;0;1;Yes;Urban;72.79;54.7;never smoked;0
-432;Male;31;0;0;Yes;Rural;91.65;24.6;formerly smoked;0
-433;Female;63;0;0;Yes;Rural;79.92;48.2;smokes;0
-434;Female;69;0;0;Yes;Rural;225.47;36.9;never smoked;0
-435;Male;64;0;0;Yes;Urban;94.48;31.1;never smoked;0
-436;Female;64;0;0;Yes;Urban;82.34;31.9;never smoked;0
-437;Female;62;0;0;Yes;Urban;180.63;31.8;formerly smoked;0
-438;Female;2;0;0;No;Rural;92.48;18;Unknown;0
-439;Male;53;0;0;Yes;Rural;116.66;28.5;formerly smoked;0
-440;Male;65;1;0;Yes;Urban;112.09;29.5;never smoked;0
-441;Female;22;0;0;No;Urban;130.34;22;never smoked;0
-442;Female;26;0;0;No;Urban;82.59;29.4;never smoked;0
-443;Male;53;0;0;Yes;Rural;123.87;28.8;Unknown;0
-445;Female;63;1;0;Yes;Rural;227.1;26.9;Unknown;0
-446;Male;13;0;0;No;Rural;55.39;23.2;Unknown;0
-447;Male;21;0;0;No;Urban;66.07;27.9;Unknown;0
-448;Female;65;0;0;Yes;Rural;104.21;36.8;never smoked;0
-449;Male;65;0;0;Yes;Urban;145.15;28.9;Unknown;0
-450;Male;42;0;0;Yes;Urban;68.19;31;never smoked;0
-451;Male;72;0;1;Yes;Rural;97.53;29.4;smokes;0
-452;Male;13;0;0;No;Urban;122.31;15.3;never smoked;0
-453;Male;29;0;0;No;Urban;83.51;37.1;never smoked;0
-454;Male;59;0;0;Yes;Urban;86.46;30.5;Unknown;0
-456;Male;13;0;0;No;Urban;92.14;23.2;never smoked;0
-457;Male;75;0;1;No;Rural;201.76;30.2;formerly smoked;0
-458;Female;33;1;0;Yes;Urban;74.44;45.2;smokes;0
-459;Female;43;0;0;Yes;Rural;95.93;21.8;Unknown;0
-460;Female;11;0;0;No;Rural;87.51;24.4;Unknown;0
-461;Female;7;0;0;No;Rural;72.35;17;Unknown;0
-462;Female;16;0;0;No;Rural;113.47;19.5;Unknown;0
-463;Female;44;0;0;No;Rural;103.78;49.8;formerly smoked;0
-464;Female;78;0;0;Yes;Rural;115.43;27.8;never smoked;0
-465;Male;25;0;0;Yes;Rural;95.59;25.1;never smoked;0
-468;Female;43;1;0;No;Rural;217.3;27.5;never smoked;0
-469;Female;38;1;0;Yes;Urban;196.01;28.1;never smoked;0
-470;Male;68;0;0;Yes;Urban;92.21;27.3;Unknown;0
-471;Male;26;0;0;Yes;Rural;100.09;27.4;never smoked;0
-472;Female;18;0;0;No;Rural;93.88;22.2;never smoked;0
-473;Female;43;0;0;Yes;Rural;75.05;22.9;smokes;0
-474;Female;43;0;0;Yes;Rural;70.08;26.6;never smoked;0
-475;Female;32;0;0;No;Urban;74.2;23;smokes;0
-476;Female;81;0;0;No;Rural;69.01;32.6;never smoked;0
-477;Male;25;0;0;No;Rural;96.17;22.1;Unknown;0
-478;Male;61;0;0;Yes;Urban;184.15;48.2;Unknown;0
-479;Female;66;0;0;Yes;Urban;87.24;22.5;formerly smoked;0
-480;Male;54;1;0;Yes;Rural;198.69;48.2;smokes;0
-481;Male;11;0;0;No;Urban;82.58;25.5;Unknown;0
-482;Female;53;0;0;Yes;Rural;96.88;31.4;Unknown;0
-483;Female;78;0;1;Yes;Urban;73.32;26;Unknown;0
-484;Male;9;0;0;No;Rural;94.59;20;Unknown;0
-485;Female;48;0;0;Yes;Rural;132.08;31.6;smokes;0
-486;Female;31;0;0;Yes;Urban;98.99;31.2;never smoked;0
-487;Male;20;0;0;No;Rural;104.48;21.7;never smoked;0
-488;Male;21;0;0;Yes;Rural;98.01;24.2;Unknown;0
-489;Female;42;0;0;Yes;Rural;79.14;25;formerly smoked;0
-490;Male;35;0;0;Yes;Urban;89.32;36.7;Unknown;0
-491;Male;53;0;0;No;Rural;65.24;28.9;Unknown;0
-492;Male;60;0;0;Yes;Rural;80.98;29.7;formerly smoked;0
-493;Male;74;0;0;Yes;Urban;186.17;44.3;Unknown;0
-494;Female;23;0;0;No;Rural;69.24;51;never smoked;0
-495;Female;55;0;0;Yes;Rural;111.19;39.7;formerly smoked;0
-496;Female;71;0;0;Yes;Urban;93.28;34.7;never smoked;0
-497;Male;5;0;0;No;Rural;122.19;35;Unknown;0
-498;Female;14;0;0;No;Rural;129.53;21.3;never smoked;0
-499;Female;15;0;0;No;Rural;114.53;29.1;Unknown;0
-500;Female;66;0;0;No;Urban;93.73;23.9;smokes;0
-501;Female;56;0;0;Yes;Urban;77.49;36;formerly smoked;0
-502;Female;60;0;0;Yes;Urban;65.38;41.2;formerly smoked;0
-503;Female;57;0;0;Yes;Urban;94.18;27.1;never smoked;0
-504;Male;29;0;0;Yes;Urban;118.7;33.2;Unknown;0
-505;Female;76;0;0;Yes;Urban;96.29;25.4;smokes;0
-506;Male;52;1;0;Yes;Rural;74.64;30.7;smokes;0
-507;Female;42;0;0;Yes;Urban;96.99;34.8;formerly smoked;0
-508;Female;71;0;0;Yes;Rural;100.61;19.2;Unknown;0
-509;Male;64;0;0;Yes;Rural;97.08;31.7;Unknown;0
-510;Female;39;0;0;Yes;Rural;84.79;35.7;never smoked;0
-511;Female;46;0;0;Yes;Rural;78.75;37.8;formerly smoked;0
-512;Female;51;0;0;Yes;Rural;82.93;29.7;smokes;0
-513;Male;31;0;0;Yes;Urban;88.78;35.8;smokes;0
-514;Male;22;0;0;No;Urban;122.1;23.6;smokes;0
-515;Male;41;0;0;No;Rural;74.81;39.7;smokes;0
-516;Female;28;0;0;Yes;Urban;183.45;40.5;smokes;0
-517;Female;44;0;0;Yes;Urban;114.94;21.4;never smoked;0
-518;Female;68;0;0;Yes;Rural;104.38;40.8;formerly smoked;0
-519;Male;49;0;0;Yes;Urban;102.91;24.7;Unknown;0
-520;Male;10;0;0;No;Rural;108.79;21;Unknown;0
-521;Female;31;0;0;Yes;Urban;73.31;45;never smoked;0
-522;Male;67;0;0;Yes;Urban;68.52;26.2;never smoked;0
-523;Male;40;0;0;Yes;Rural;89.77;48.2;smokes;0
-524;Male;70;0;0;Yes;Urban;102.64;28.3;never smoked;0
-525;Female;38;0;0;Yes;Urban;70.92;41.6;never smoked;0
-526;Female;5;0;0;No;Rural;86.11;19;Unknown;0
-527;Female;54;0;0;Yes;Urban;129.16;32.4;never smoked;0
-528;Female;30;0;0;Yes;Urban;113.85;34;never smoked;0
-529;Female;23;0;0;Yes;Rural;79.35;39.4;formerly smoked;0
-530;Female;31;0;0;Yes;Rural;80.79;28.7;Unknown;0
-531;Male;72;1;0;Yes;Urban;114.01;31.8;formerly smoked;0
-532;Male;23;0;0;No;Rural;93.74;31.2;never smoked;0
-533;Female;25;0;0;Yes;Rural;90.65;20.9;Unknown;0
-534;Male;51;0;0;Yes;Urban;98.41;32.1;never smoked;0
-535;Female;20;0;0;No;Urban;127.18;31;Unknown;0
-536;Female;12;0;0;No;Urban;138.06;23.1;Unknown;0
-537;Male;57;0;0;Yes;Urban;89.44;26.7;never smoked;0
-538;Male;65;0;0;Yes;Urban;105.61;27.9;Unknown;0
-539;Female;16;0;0;No;Rural;155.43;27.3;never smoked;0
-540;Female;43;0;0;Yes;Rural;80.83;51.5;Unknown;0
-541;Female;30;0;0;Yes;Urban;80.19;20.4;never smoked;0
-542;Male;29;0;0;Yes;Urban;60.34;29.6;formerly smoked;0
-543;Female;54;0;0;Yes;Urban;79.3;30.6;formerly smoked;0
-544;Female;57;0;0;Yes;Urban;98.44;33.6;Unknown;0
-545;Male;42;0;0;Yes;Rural;210.48;71.9;never smoked;0
-546;Male;18;0;0;No;Rural;70.34;24.2;Unknown;0
-547;Male;9;0;0;No;Urban;122.22;17.7;Unknown;0
-548;Female;26;0;0;Yes;Rural;75.29;22.6;smokes;0
-549;Male;40;0;0;No;Rural;100.35;28.1;never smoked;0
-550;Male;77;0;0;Yes;Urban;193.83;26.5;never smoked;0
-551;Female;15;0;0;No;Urban;126.96;28.7;Unknown;0
-552;Female;76;0;0;Yes;Urban;183.34;39.5;formerly smoked;0
-553;Male;52;0;0;Yes;Urban;247.69;35.1;Unknown;0
-554;Female;55;0;0;Yes;Rural;76.2;27.9;never smoked;0
-555;Male;5;0;0;No;Rural;71.43;19.3;Unknown;0
-556;Female;55;0;0;No;Rural;93.36;28.4;never smoked;0
-557;Male;36;0;0;No;Urban;61.29;26.7;never smoked;0
-558;Male;46;0;0;Yes;Urban;103.62;40.9;Unknown;0
-559;Male;5;0;0;No;Rural;100.52;17.2;Unknown;0
-560;Female;39;0;0;Yes;Rural;191.47;28.3;never smoked;0
-561;Male;12;0;0;No;Urban;67.06;16.1;Unknown;0
-562;Male;67;0;1;Yes;Urban;144.1;27.6;never smoked;0
-563;Female;1.8;0;0;No;Urban;58.26;16.5;Unknown;0
-564;Female;72;0;0;Yes;Urban;239.82;35.8;never smoked;0
-565;Female;0.32;0;0;No;Rural;73.71;16.2;Unknown;0
-566;Female;64;1;0;Yes;Rural;88.53;24.6;never smoked;0
-567;Male;27;0;0;No;Urban;114.79;32;Unknown;0
-568;Male;25;0;0;No;Rural;113.8;35.3;formerly smoked;0
-569;Female;81;0;0;No;Urban;71.91;19.2;Unknown;0
-570;Female;32;0;0;No;Urban;65.3;40.4;never smoked;0
-571;Male;57;0;0;Yes;Urban;189.57;30.7;never smoked;0
-572;Female;52;1;0;Yes;Urban;114.25;24.3;formerly smoked;0
-573;Male;54;0;0;Yes;Urban;81.26;26.4;formerly smoked;0
-574;Female;36;0;0;Yes;Urban;87.88;34.7;smokes;0
-575;Male;18;0;0;No;Urban;112.17;31.7;Unknown;0
-576;Male;45;0;0;Yes;Rural;99.97;35.6;never smoked;0
-577;Male;29;0;0;No;Urban;207.58;22.8;smokes;0
-578;Female;51;1;0;Yes;Urban;109.16;28;smokes;0
-579;Female;23;0;0;No;Urban;74.46;35.6;formerly smoked;0
-580;Female;54;0;0;Yes;Rural;118.51;40.6;never smoked;0
-581;Female;54;0;0;Yes;Urban;107.47;29.3;formerly smoked;0
-582;Male;18;0;0;No;Rural;182.86;21;Unknown;0
-583;Female;26;0;0;Yes;Rural;59.17;20;Unknown;0
-584;Male;72;0;0;Yes;Rural;215.64;26.7;formerly smoked;0
-585;Male;5;0;0;No;Rural;163.7;18.4;Unknown;0
-586;Female;65;0;1;Yes;Rural;196.36;34.5;formerly smoked;0
-587;Female;42;0;0;No;Rural;139.77;27.7;Unknown;0
-588;Female;47;0;0;Yes;Urban;141.23;21.1;never smoked;0
-589;Female;24;0;0;Yes;Urban;89.99;24.4;formerly smoked;0
-590;Male;57;0;0;Yes;Urban;108.53;19.4;smokes;0
-591;Male;51;0;0;Yes;Urban;63.61;42.3;Unknown;0
-592;Male;48;0;0;Yes;Urban;85.54;32.2;smokes;0
-593;Female;56;0;0;Yes;Urban;100.83;26.8;never smoked;0
-594;Female;30;0;0;Yes;Urban;59.82;25.4;never smoked;0
-595;Female;63;1;0;Yes;Urban;105.95;23.5;smokes;0
-596;Female;46;0;0;Yes;Rural;188.11;50.2;smokes;0
-597;Female;53;0;0;Yes;Urban;71.15;26.1;formerly smoked;0
-598;Female;1.08;0;0;No;Rural;60.53;17.5;Unknown;0
-599;Male;15;0;0;No;Rural;205.5;24.2;never smoked;0
-600;Female;59;1;0;Yes;Urban;204.86;30.8;never smoked;0
-601;Female;24;0;0;No;Rural;115.03;23.4;never smoked;0
-602;Male;53;0;0;Yes;Rural;79.87;30.9;never smoked;0
-603;Female;39;0;0;Yes;Rural;97.89;23.6;never smoked;0
-604;Male;23;0;0;No;Urban;125.26;18.7;never smoked;0
-605;Male;31;0;0;Yes;Rural;114.32;27.7;smokes;0
-606;Male;5;0;0;No;Urban;92.23;16.7;Unknown;0
-607;Male;44;0;0;Yes;Urban;83.51;31.2;never smoked;0
-608;Female;1.8;0;0;No;Urban;102.34;17;Unknown;0
-609;Male;40;0;0;Yes;Rural;144.48;29.8;smokes;0
-610;Male;7;0;0;No;Rural;88.39;19.7;Unknown;0
-611;Female;56;0;0;Yes;Rural;228.08;29.1;Unknown;0
-612;Male;42;0;0;Yes;Urban;93.79;27.2;never smoked;0
-613;Male;48;0;0;Yes;Rural;147.14;22.3;Unknown;0
-615;Female;52;0;0;No;Rural;88.04;42.1;never smoked;0
-616;Female;42;0;0;Yes;Urban;92.2;34.2;Unknown;0
-617;Female;73;0;0;Yes;Urban;219.53;40.9;never smoked;0
-618;Female;55;0;0;Yes;Rural;75.56;29.4;smokes;0
-619;Male;50;0;0;Yes;Urban;158.31;32.8;formerly smoked;0
-620;Male;43;0;0;Yes;Urban;111.43;21.9;smokes;0
+id,gender,age,hypertension,heart_disease,ever_married,Residence_type,avg_glucose_level,bmi,smoking_status,stroke
+1,0,67,0,1,1,1,228.69,36.6,1,1
+2,1,61,0,0,1,0,202.21,48.2,0,1
+3,0,80,0,1,1,0,105.92,32.5,0,1
+4,1,49,0,0,1,1,171.23,34.4,2,1
+6,0,81,0,0,1,1,186.21,29,1,1
+7,0,74,1,1,1,0,70.09,27.4,0,1
+8,1,69,0,0,0,1,94.39,22.8,0,NaN
+9,1,59,0,0,1,0,76.15,48.2,3,1
+10,1,78,0,0,1,1,58.57,24.2,3,1
+11,1,81,1,0,1,0,80.43,29.7,0,1
+12,1,61,0,1,1,0,120.46,36.8,2,1
+13,1,54,0,0,1,1,104.51,27.3,2,1
+14,0,78,0,1,1,1,219.84,48.2,3,1
+15,1,79,0,1,1,1,214.09,28.2,0,1
+16,1,50,1,0,1,0,167.41,30.9,0,1
+18,0,75,1,0,1,1,221.29,25.8,2,1
+19,1,60,0,0,0,1,89.22,37.8,0,1
+20,0,57,0,1,0,1,217.08,48.2,3,1
+21,1,71,0,0,1,0,193.94,22.4,2,1
+22,1,52,1,0,1,1,233.29,48.9,0,1
+23,1,79,0,0,1,1,228.7,26.6,0,1
+24,0,82,0,1,1,0,208.3,32.5,3,1
+25,0,71,0,0,1,1,102.87,27.2,1,1
+26,0,80,0,0,1,0,104.12,23.5,0,1
+27,1,65,0,0,1,0,100.98,28.2,1,1
+29,0,69,0,1,1,1,195.23,28.3,2,1
+30,0,59,0,0,1,0,211.78,48.2,1,1
+31,0,57,1,0,1,1,212.08,44.2,2,1
+32,0,42,0,0,1,0,83.41,25.4,3,1
+33,1,82,1,0,1,1,196.92,22.2,0,1
+34,0,80,0,1,1,1,252.72,30.5,1,1
+35,0,48,0,0,0,1,84.2,29.7,0,1
+36,1,82,1,1,0,0,84.03,26.5,1,1
+37,0,74,0,0,1,0,219.72,33.7,1,1
+38,1,72,1,0,1,0,74.63,23.1,1,1
+39,0,58,0,0,0,0,92.62,32,3,1
+40,1,49,0,0,1,1,60.91,29.9,0,1
+41,0,78,0,0,1,0,78.03,23.9,1,1
+42,0,54,0,0,1,1,71.22,28.5,0,1
+43,0,82,0,1,1,1,144.9,26.4,2,1
+44,1,63,0,0,1,1,90.9,48.2,1,1
+45,0,60,1,0,1,1,213.03,20.2,2,1
+46,0,76,1,0,1,0,243.58,33.6,0,1
+47,1,75,0,1,0,1,109.78,48.2,3,1
+48,1,58,0,0,1,1,107.26,38.6,1,1
+49,0,81,0,0,1,1,99.33,33.7,0,1
+50,1,39,1,0,1,0,58.09,39.2,2,1
+51,1,76,0,0,0,1,89.96,48.2,3,1
+52,0,78,1,0,1,1,75.32,48.2,1,1
+53,1,79,0,1,1,0,127.29,27.7,0,1
+54,1,77,1,0,1,1,124.13,31.4,0,1
+55,1,63,0,0,1,1,197.54,48.2,0,1
+56,0,63,0,1,1,0,196.71,36.5,1,1
+57,1,82,0,0,1,0,59.32,33.2,0,1
+58,0,78,0,0,1,1,237.75,48.2,1,1
+59,0,73,1,0,1,1,194.99,32.8,0,1
+60,1,54,1,0,1,1,180.93,27.7,0,1
+61,1,56,0,0,1,1,185.17,40.4,1,1
+62,1,80,1,0,1,0,74.9,22.2,0,1
+63,1,67,1,0,1,0,61.94,25.3,2,1
+64,1,45,0,0,1,0,93.72,30.2,1,1
+65,0,75,0,0,1,1,104.72,48.2,3,1
+66,0,78,1,0,0,1,113.01,24,0,1
+67,1,70,0,0,1,1,221.58,47.5,0,1
+68,0,76,0,0,1,1,104.47,20.3,3,1
+69,0,59,0,0,1,1,86.23,30,1,1
+70,1,80,1,0,1,0,72.67,28.9,0,1
+71,1,76,0,0,1,0,62.57,48.2,1,1
+72,1,67,1,0,1,0,179.12,28.1,1,1
+73,1,66,1,0,1,0,116.55,31.1,1,1
+74,0,63,0,0,1,0,228.56,27.4,0,1
+75,1,52,0,0,1,0,96.59,26.4,0,1
+76,1,80,0,1,1,0,66.72,21.7,1,1
+77,0,80,1,0,1,1,240.09,27,0,1
+78,1,79,0,0,1,1,110.85,24.1,1,1
+79,1,51,0,0,1,1,165.31,48.2,0,1
+80,0,43,0,0,1,1,143.43,45.9,3,1
+81,0,59,0,0,1,0,96.16,44.1,3,1
+83,1,79,0,0,0,0,88.92,22.9,0,1
+84,1,68,1,0,0,1,79.79,29.7,0,1
+85,0,58,0,0,1,1,71.2,48.2,3,1
+86,0,54,0,0,1,0,96.97,29.1,2,1
+88,1,70,0,1,1,0,59.35,32.3,1,1
+89,0,47,0,0,1,1,86.94,41.1,1,1
+90,0,74,0,0,1,1,98.55,25.6,3,1
+91,1,79,0,1,1,1,226.98,29.8,0,1
+92,0,81,0,0,1,1,72.81,26.3,0,1
+93,1,57,0,0,0,1,68.02,37.5,0,1
+94,1,80,1,0,1,1,68.56,26.2,3,1
+95,0,45,0,0,1,0,64.14,29.4,0,1
+96,1,78,0,0,1,0,235.63,32.3,0,1
+97,1,70,0,0,1,0,76.34,24.4,1,1
+98,0,58,0,1,1,0,240.59,31.4,2,1
+99,0,57,1,0,1,1,78.92,27.7,1,1
+100,1,69,0,0,1,1,82.81,28,0,1
+101,0,64,0,1,1,1,74.1,28.8,3,1
+102,1,77,0,0,1,0,190.32,31.4,0,1
+103,1,74,0,0,1,0,231.61,34.6,1,1
+104,1,81,0,1,1,0,78.7,19.4,3,1
+105,1,57,0,0,1,1,110.52,28.5,3,1
+106,0,58,0,0,1,1,82.3,48.2,2,1
+107,1,50,1,0,1,0,73.18,30.3,1,1
+108,1,54,0,0,1,0,191.82,40.4,2,1
+109,1,79,0,0,1,0,93.05,24.2,0,1
+110,1,53,0,0,1,1,64.17,41.5,0,1
+111,0,79,0,1,1,0,129.98,22.6,1,1
+112,0,80,0,1,1,1,68.53,24.2,2,1
+113,1,76,0,0,1,1,106.41,48.2,1,1
+114,1,45,0,0,1,0,224.1,56.6,0,1
+115,1,68,0,0,0,1,82.1,27.1,3,1
+116,0,71,1,1,0,0,216.94,30.9,0,1
+117,0,61,1,0,1,0,76.11,27.3,2,1
+118,0,74,0,0,1,1,72.96,31.3,2,1
+119,1,38,0,0,0,1,82.28,24,1,1
+120,1,77,0,0,1,1,105.22,31,0,NaN
+121,1,58,0,0,1,0,59.86,28,1,1
+122,1,53,1,0,1,1,62.55,30.3,3,1
+123,0,80,0,0,1,0,259.63,31.7,2,1
+124,0,56,1,0,1,0,249.31,35.8,0,1
+125,1,72,0,0,1,1,219.91,48.2,3,1
+126,1,72,0,0,1,1,131.41,28.4,0,1
+127,0,78,1,0,1,1,93.13,48.2,1,1
+128,1,80,0,0,1,1,73.54,24,3,1
+129,0,82,0,0,1,1,200.59,29,1,1
+130,1,75,0,0,1,1,62.48,48.2,3,1
+131,1,73,1,0,1,0,190.14,36.5,0,1
+132,1,78,1,0,0,1,130.54,20.1,0,1
+133,0,69,1,0,0,0,182.99,36.5,0,1
+134,1,38,0,0,1,0,101.45,48.2,1,1
+135,1,68,1,0,1,0,206.09,26.7,0,1
+136,1,71,0,0,1,1,263.32,38.7,0,1
+137,0,76,0,0,1,1,140.1,29.9,1,1
+138,1,76,0,0,1,1,207.28,34.9,3,1
+139,0,76,1,0,1,0,194.37,27,1,1
+140,1,75,0,0,1,0,199.2,26.6,3,1
+141,0,82,0,1,1,0,103.68,25,0,1
+142,1,59,0,0,1,0,116.44,23.8,2,1
+143,1,74,1,0,1,1,70.28,21.8,0,1
+144,1,69,1,1,0,1,72.17,36.8,0,1
+145,1,72,1,0,1,1,221.79,30,0,1
+146,0,66,0,0,1,1,151.16,27.5,1,1
+147,0,65,0,0,1,1,68.43,48.2,1,1
+148,1,78,0,0,1,1,67.29,24.6,0,1
+149,1,57,1,0,1,0,67.41,32.9,0,1
+150,1,70,0,1,1,0,239.07,26.1,0,1
+151,1,79,0,0,1,0,169.67,48.2,3,1
+152,0,68,0,1,1,1,223.83,31.9,1,1
+153,1,80,0,0,1,1,76.57,34.1,0,1
+154,0,68,0,0,1,1,77.82,27.5,2,1
+155,1,55,0,0,1,0,92.98,25.6,0,1
+156,1,77,0,1,1,0,231.56,36.9,0,1
+157,1,50,0,0,1,0,102.16,31.4,2,1
+158,1,57,0,0,1,1,221.89,37.3,2,1
+159,1,71,0,0,1,1,195.71,34.1,1,1
+160,1,81,1,0,1,0,74.02,25,0,1
+161,1,76,0,0,1,1,57.92,48.2,1,1
+162,0,71,0,1,1,1,81.76,48.2,2,1
+163,1,1.32,0,0,0,1,70.37,48.2,3,1
+164,1,78,1,0,0,1,203.87,45.7,0,1
+165,1,70,1,0,1,1,89.13,34.2,1,1
+166,0,78,0,0,1,1,133.19,23.6,1,NaN
+167,1,56,0,0,1,0,162.23,27.3,3,1
+168,0,79,1,0,1,0,75.02,48.2,0,1
+169,1,79,1,0,0,1,98.02,22.3,1,1
+170,0,81,0,0,1,0,91.54,31.4,0,1
+171,0,64,0,0,1,0,111.98,48.2,1,1
+172,1,79,1,1,0,0,60.94,48.2,0,1
+173,1,60,0,0,1,1,97.43,26.4,2,1
+174,1,80,1,0,1,0,91.02,32.9,1,1
+175,1,78,0,0,1,0,60.67,48.2,1,1
+176,0,72,1,0,1,0,185.49,37.1,0,1
+177,1,80,0,0,1,1,64.44,45,0,1
+178,0,78,1,0,1,0,56.11,25.5,1,1
+179,1,80,0,0,1,1,110.66,48.2,3,NaN
+180,0,81,0,0,1,1,213.22,26.1,3,1
+181,1,46,0,0,1,1,78.18,30.8,0,1
+182,0,59,0,0,1,1,111.04,32,1,1
+183,1,32,0,0,1,0,76.13,29.9,2,1
+184,1,77,0,0,0,1,81.32,48.2,3,1
+185,0,61,1,1,1,1,112.24,37.4,2,1
+186,0,63,0,0,1,0,137.3,31.7,1,1
+187,0,63,0,1,1,1,116.69,34.5,1,1
+188,1,82,1,1,1,1,215.94,27.9,1,1
+189,0,82,0,0,1,0,86.62,29.5,1,1
+190,0,61,0,1,1,1,209.86,48.2,3,1
+191,1,65,0,0,1,1,205.77,46,1,1
+192,0,51,1,0,1,1,112.16,42.5,1,1
+193,0,59,0,0,1,0,118.03,35.5,2,1
+194,0,68,1,1,1,0,271.74,31.1,2,1
+195,1,72,0,0,1,0,97.92,26.9,2,1
+196,0,59,0,0,1,1,200.62,35.8,1,1
+197,0,70,1,0,1,0,242.52,45.5,1,1
+198,0,69,0,0,1,0,93.81,28.5,3,1
+199,0,79,0,0,1,0,114.77,48.2,1,1
+200,1,74,0,0,1,1,74.96,26.6,0,1
+201,0,74,0,0,1,1,167.13,48.2,3,1
+202,0,80,1,1,1,1,175.29,31.5,1,1
+203,1,77,0,0,1,0,90,32,0,1
+204,1,78,0,0,1,0,109.47,30.8,0,1
+205,0,54,0,0,1,0,87.85,31.1,2,1
+206,1,78,0,0,1,1,106.74,33,1,1
+207,1,81,0,0,1,0,80.13,23.4,0,1
+208,0,78,0,0,0,1,90.19,26.9,0,1
+209,0,78,1,0,1,0,134.8,33.6,3,1
+210,1,63,0,0,1,0,106.58,23.9,3,1
+211,1,39,0,0,1,1,83.24,26.3,0,1
+212,1,51,0,0,1,0,103.43,27.3,1,1
+213,0,63,0,0,1,1,208.65,30.7,0,1
+214,1,48,0,0,1,1,74.11,20.5,0,1
+215,1,81,0,0,1,1,95.84,21.5,0,1
+216,1,79,0,1,0,1,205.33,31,2,1
+217,0,78,0,0,1,1,116.1,27.1,0,1
+218,1,55,1,1,1,1,210.4,40,2,1
+219,1,76,1,1,1,1,199.86,48.2,2,1
+220,0,73,0,1,1,0,219.73,28.6,0,1
+221,0,81,1,1,1,1,250.89,28.1,2,1
+222,0,79,0,0,1,0,72.73,28.4,0,1
+223,1,63,0,0,1,0,205.35,42.2,1,1
+224,1,81,0,0,0,1,70.3,25.8,2,1
+225,0,49,0,0,0,0,104.86,31.9,2,1
+226,1,57,0,1,1,1,216.58,31,3,1
+227,1,81,0,0,1,0,184.4,27.5,0,1
+228,0,74,0,0,1,0,60.98,48.2,0,1
+229,1,39,0,0,1,1,97.76,29.6,2,1
+230,1,80,1,0,0,1,66.03,35.4,0,1
+231,1,81,0,0,1,0,81.95,16.9,0,1
+232,1,79,0,0,1,1,97.73,21.5,2,1
+233,1,73,0,0,1,1,70.94,34.4,0,1
+234,1,77,1,0,1,1,199.84,28,1,1
+235,0,78,0,0,1,1,218.46,26.8,3,NaN
+236,1,68,0,0,1,0,211.06,39.3,3,1
+237,0,57,0,0,1,1,86.3,31.7,3,1
+238,0,77,0,0,1,0,162.14,32.6,1,1
+239,1,51,1,0,1,1,88.2,28.4,0,1
+240,0,60,0,1,1,1,91.92,35.9,2,1
+241,0,66,0,0,1,0,76.46,21.2,1,1
+242,0,57,0,0,1,0,197.28,34.5,1,1
+243,0,68,0,0,1,0,233.94,42.4,0,1
+244,1,68,1,1,1,1,247.51,40.5,1,1
+245,0,57,0,0,1,0,84.96,36.7,3,1
+246,1,14,0,0,0,0,57.93,30.9,3,1
+247,1,75,0,0,1,0,78.8,29.3,1,1
+248,0,71,1,0,1,0,87.8,48.2,3,1
+249,1,78,0,0,1,0,78.81,19.6,3,1
+250,0,3,0,0,0,0,95.12,18,3,0
+251,0,58,1,0,1,1,87.96,39.2,0,0
+252,1,8,0,0,0,1,110.89,17.6,3,0
+253,1,70,0,0,1,0,69.04,35.9,1,0
+254,0,14,0,0,0,0,161.28,19.1,3,0
+255,1,47,0,0,1,1,210.95,50.1,3,0
+256,1,52,0,0,1,1,77.59,17.7,1,0
+257,1,75,0,1,1,0,243.53,27,0,0
+258,1,32,0,0,1,0,77.67,32.3,2,0
+259,1,74,1,0,1,1,205.84,54.6,0,0
+260,1,79,0,0,1,1,77.08,35,3,0
+261,0,79,0,1,1,1,57.08,22,1,0
+262,1,37,0,0,1,0,162.96,39.4,0,0
+263,1,37,0,0,1,0,73.5,26.1,1,0
+264,1,40,0,0,1,0,95.04,42.4,0,0
+265,0,35,0,0,0,0,85.37,33,0,0
+266,1,20,0,0,0,1,84.62,19.7,2,0
+267,1,42,0,0,1,0,82.67,22.5,0,0
+268,1,44,0,0,1,1,57.33,24.6,2,0
+269,1,79,0,1,1,1,67.84,25.2,2,0
+270,1,65,1,0,1,0,75.7,41.8,3,0
+271,1,57,1,0,1,0,129.54,60.9,2,0
+272,1,49,0,0,1,0,60.22,31.5,2,0
+273,0,71,0,0,1,1,198.21,27.3,1,0
+274,1,59,0,0,1,1,109.82,23.7,0,0
+275,1,25,0,0,1,1,60.84,24.5,0,0
+276,1,67,0,0,1,0,94.61,28.4,2,0
+277,1,38,0,0,0,0,97.49,26.9,0,0
+278,1,54,0,0,1,0,206.72,26.7,0,0
+279,1,70,0,0,1,0,214.45,31.2,0,0
+280,0,27,0,0,1,1,82.9,25,3,0
+281,1,47,0,0,1,1,103.26,25.4,3,0
+282,0,58,1,0,0,1,55.78,27.5,2,0
+283,1,3,0,0,0,1,73.74,16,3,0
+284,1,58,0,0,1,1,149.75,27,3,0
+285,0,14,0,0,0,1,82.34,31.6,3,0
+286,1,32,0,0,1,0,62.6,25.1,1,0
+287,1,23,0,0,0,1,94.09,30.9,0,NaN
+288,1,55,0,0,1,1,55.42,24.8,3,0
+289,1,17,0,0,0,1,82.18,23.4,3,0
+290,0,59,0,0,1,1,117.92,29.4,2,0
+291,0,13,0,0,0,1,114.84,18.3,3,NaN
+292,0,4,0,0,0,0,79.17,20,3,0
+293,1,16,0,0,0,0,110.63,19.5,3,0
+294,0,67,0,0,1,1,190.7,36,1,0
+295,1,22,0,0,0,0,79.81,27.7,3,0
+296,1,45,0,0,1,1,113.63,27.5,2,0
+297,1,66,0,0,1,0,141.24,28.5,0,0
+298,0,58,1,0,1,0,56.96,26.8,2,0
+299,0,69,0,0,1,0,203.04,33.6,0,0
+300,1,58,0,0,1,0,94.3,29.1,3,0
+301,1,53,0,0,1,1,81.51,28.5,3,0
+302,1,78,0,0,0,1,137.74,34.9,1,NaN
+303,0,44,0,0,1,0,81.84,25.1,0,0
+304,0,66,0,0,1,0,242.3,35.3,2,0
+305,0,27,0,0,1,0,102.64,26.4,2,0
+306,0,43,0,0,1,1,146.01,31.5,2,0
+307,1,13,0,0,0,1,75.42,40.1,3,0
+308,0,51,0,0,1,1,220.49,43.1,3,0
+309,1,30,0,0,1,1,61.45,36.7,2,0
+310,0,46,0,0,1,0,88.19,29.3,1,0
+311,1,43,0,0,1,0,115.22,21.2,3,0
+312,1,79,0,0,1,1,97.93,31.2,3,0
+313,1,27,0,0,1,0,85.6,21.4,3,0
+314,1,38,0,0,1,0,79.83,27.9,2,0
+315,1,78,1,0,1,1,218.46,34.3,0,0
+316,0,57,0,1,1,0,62.2,31,1,0
+317,0,61,0,0,1,1,69.15,27.7,1,0
+318,1,37,1,0,1,0,127.71,36,0,0
+319,1,48,0,0,1,0,216.7,38.7,1,0
+320,1,29,0,0,0,1,71.89,27.6,0,0
+321,0,22,0,0,0,0,103.56,25.1,3,0
+322,0,11,0,0,0,0,79.03,16.5,3,0
+323,1,22,0,0,0,1,69.94,22.8,3,0
+324,0,53,0,0,1,0,90.12,35.4,3,0
+325,0,27,0,0,0,1,95.1,24.3,1,0
+326,0,76,0,0,1,0,234.58,34.3,1,0
+327,1,57,1,0,1,0,235.85,40.1,0,0
+328,0,8,0,0,0,0,78.05,25.7,3,0
+329,1,21,0,0,0,0,89.44,21.9,2,0
+330,1,18,0,0,0,0,111.38,38.4,2,NaN
+331,1,78,0,0,1,1,243.5,26.1,0,0
+332,1,78,1,0,1,1,182.2,30.5,1,0
+333,0,33,0,0,1,1,229.92,25.9,2,0
+334,1,52,0,0,1,1,82.24,54.7,1,0
+335,1,51,0,0,1,0,89.84,29.9,3,0
+336,0,11,0,0,0,0,90.69,18.6,3,0
+337,1,48,0,0,1,1,84.38,27.1,3,0
+338,1,82,0,1,0,1,215.6,24.9,0,0
+339,1,54,0,0,1,0,91.61,25.2,0,0
+340,1,49,0,0,1,0,138.16,19.4,0,0
+341,1,24,0,0,1,1,75.23,29,0,0
+342,1,37,0,0,1,0,75.18,48.2,1,0
+343,0,34,0,1,1,1,106.23,48.2,1,0
+344,0,64,0,0,1,1,239.64,34.6,1,0
+345,1,66,0,0,1,1,58.95,24.6,0,0
+346,1,23,0,0,0,1,99.92,25.8,0,0
+347,0,68,0,0,1,0,116.23,26.1,0,0
+348,1,55,0,0,1,1,118.82,29,1,0
+349,1,25,0,0,0,0,66.3,27.2,0,0
+350,1,48,0,0,0,1,101.41,20.7,2,0
+351,1,79,1,1,1,1,200.28,30,1,0
+352,1,47,0,0,1,1,136.8,37.3,0,0
+353,1,20,0,0,0,0,96.57,34.1,0,0
+354,1,60,0,0,1,0,66.42,23.6,0,0
+355,1,32,0,0,1,1,98.09,25.2,2,0
+356,1,66,1,0,1,0,205.23,39.5,0,0
+357,0,43,0,0,1,1,86.78,23.5,2,0
+358,1,36,0,0,0,0,126.82,23.3,0,0
+359,0,52,0,0,1,1,78.4,64.8,0,0
+360,1,29,0,0,1,1,63.69,28.1,2,0
+361,1,76,1,0,1,1,209.58,48.2,0,0
+362,1,39,0,0,1,0,89.86,24.4,0,0
+363,0,76,0,0,1,0,110.99,29.8,1,0
+364,1,0.64,0,0,0,1,83.82,24.9,3,0
+365,0,34,0,0,1,1,137.96,35.1,3,0
+366,1,72,0,0,1,0,210.78,32.3,1,0
+367,1,43,0,0,1,0,118.89,43.6,0,0
+368,1,57,0,0,0,0,72.55,21,0,0
+369,1,44,0,0,1,0,107.41,47.3,0,0
+370,1,4,0,0,0,0,93.25,16.6,3,0
+371,0,44,0,0,1,0,74.91,37.5,0,0
+372,1,18,0,0,0,1,80.05,24.2,0,0
+373,0,41,0,0,1,1,99.8,31.6,0,0
+374,1,23,0,0,1,0,91.97,21.6,1,0
+375,1,53,0,0,1,0,64.4,31,2,0
+376,0,56,0,0,1,0,73.02,31.1,0,0
+377,1,0.88,0,0,0,0,88.11,15.5,3,0
+378,0,25,0,0,0,1,138.29,27.3,3,0
+379,1,14,0,0,0,0,72.36,20.5,3,0
+380,1,53,0,0,1,0,68.76,35.6,1,0
+381,0,4,0,0,0,0,106.22,16.7,3,0
+382,1,39,0,0,1,1,101.52,41.8,0,0
+383,0,53,1,1,1,0,109.51,41.9,0,0
+384,0,5,0,0,0,0,85.84,16.4,3,0
+385,0,4,0,0,0,0,110.15,17.1,3,0
+386,1,37,0,0,1,1,91.72,29.2,0,0
+387,0,70,1,0,1,1,251.6,27.1,0,0
+388,0,24,0,0,0,1,123.1,37.9,0,0
+389,0,55,0,0,1,0,97.4,44.6,1,NaN
+390,1,70,0,0,1,0,68.34,22.8,1,0
+391,0,34,0,0,1,1,80.81,33.2,0,0
+392,0,26,0,0,1,0,120.31,22.3,2,0
+393,1,39,0,0,1,0,83.51,26.4,0,0
+394,0,38,0,0,0,1,74.09,39.6,0,0
+395,1,20,0,0,0,1,91.6,28.1,0,0
+396,1,17,0,0,0,1,87.52,39.2,0,0
+397,0,60,1,0,1,0,213.37,36,0,0
+398,1,75,0,0,1,0,75.39,37.8,0,0
+399,1,31,0,0,1,0,122.41,40.3,2,0
+400,0,58,1,0,1,0,223.36,41.5,1,0
+401,1,5,0,0,0,0,84.59,17.7,3,0
+402,1,13,0,0,0,1,70.16,21.2,0,0
+403,1,22,0,0,0,0,107.52,41.6,3,0
+404,1,52,0,0,1,1,80.88,23.8,2,0
+405,1,61,0,0,1,0,93.48,23.7,3,0
+406,1,78,0,1,1,1,70.21,24.8,0,0
+407,0,57,0,0,1,0,86.67,39,3,0
+408,1,21,0,0,1,0,101.37,37.9,0,0
+409,1,22,0,0,1,0,105.22,31.1,0,0
+410,1,80,0,0,1,0,70.31,23.2,3,0
+411,0,7,0,0,0,0,64.06,18.9,3,0
+412,0,64,1,0,1,0,178.29,36.1,0,0
+413,1,64,0,0,0,0,81.6,36.3,2,0
+414,1,38,0,0,1,1,147.48,40.5,3,0
+415,0,12,0,0,0,1,86.86,25.4,0,0
+416,1,33,0,0,1,0,71.16,46.5,2,0
+417,1,3,0,0,0,1,73.2,16.8,3,0
+418,1,37,0,0,1,1,203.81,46.6,0,0
+419,1,22,0,0,0,0,82,26.4,0,0
+420,1,24,0,0,0,1,97.55,26.2,0,0
+421,0,75,0,0,1,1,94.29,35.2,3,0
+422,1,12,0,0,0,0,75.22,20.9,3,0
+423,0,63,0,0,1,1,90.07,36.8,3,0
+424,1,52,0,0,1,1,73.73,34.4,1,0
+425,1,68,0,0,1,1,79.58,22.2,0,0
+426,1,5,0,0,0,1,77.88,13.8,3,0
+427,1,56,1,0,1,0,205.26,40.3,0,0
+428,1,43,0,0,1,0,58.63,28.4,2,0
+429,1,40,0,0,1,0,139.9,31.7,2,0
+430,0,53,0,0,1,1,211.03,34.2,1,0
+431,1,52,0,1,1,1,72.79,54.7,0,0
+432,0,31,0,0,1,0,91.65,24.6,1,0
+433,1,63,0,0,1,0,79.92,48.2,2,0
+434,1,69,0,0,1,0,225.47,36.9,0,0
+435,0,64,0,0,1,1,94.48,31.1,0,0
+436,1,64,0,0,1,1,82.34,31.9,0,0
+437,1,62,0,0,1,1,180.63,31.8,1,0
+438,1,2,0,0,0,0,92.48,18,3,0
+439,0,53,0,0,1,0,116.66,28.5,1,0
+440,0,65,1,0,1,1,112.09,29.5,0,0
+441,1,22,0,0,0,1,130.34,22,0,0
+442,1,26,0,0,0,1,82.59,29.4,0,0
+443,0,53,0,0,1,0,123.87,28.8,3,0
+445,1,63,1,0,1,0,227.1,26.9,3,0
+446,0,13,0,0,0,0,55.39,23.2,3,0
+447,0,21,0,0,0,1,66.07,27.9,3,0
+448,1,65,0,0,1,0,104.21,36.8,0,0
+449,0,65,0,0,1,1,145.15,28.9,3,0
+450,0,42,0,0,1,1,68.19,31,0,0
+451,0,72,0,1,1,0,97.53,29.4,2,0
+452,0,13,0,0,0,1,122.31,15.3,0,0
+453,0,29,0,0,0,1,83.51,37.1,0,0
+454,0,59,0,0,1,1,86.46,30.5,3,0
+456,0,13,0,0,0,1,92.14,23.2,0,0
+457,0,75,0,1,0,0,201.76,30.2,1,0
+458,1,33,1,0,1,1,74.44,45.2,2,0
+459,1,43,0,0,1,0,95.93,21.8,3,0
+460,1,11,0,0,0,0,87.51,24.4,3,0
+461,1,7,0,0,0,0,72.35,17,3,0
+462,1,16,0,0,0,0,113.47,19.5,3,0
+463,1,44,0,0,0,0,103.78,49.8,1,0
+464,1,78,0,0,1,0,115.43,27.8,0,0
+465,0,25,0,0,1,0,95.59,25.1,0,0
+468,1,43,1,0,0,0,217.3,27.5,0,0
+469,1,38,1,0,1,1,196.01,28.1,0,0
+470,0,68,0,0,1,1,92.21,27.3,3,0
+471,0,26,0,0,1,0,100.09,27.4,0,0
+472,1,18,0,0,0,0,93.88,22.2,0,0
+473,1,43,0,0,1,0,75.05,22.9,2,0
+474,1,43,0,0,1,0,70.08,26.6,0,0
+475,1,32,0,0,0,1,74.2,23,2,0
+476,1,81,0,0,0,0,69.01,32.6,0,0
+477,0,25,0,0,0,0,96.17,22.1,3,0
+478,0,61,0,0,1,1,184.15,48.2,3,0
+479,1,66,0,0,1,1,87.24,22.5,1,0
+480,0,54,1,0,1,0,198.69,48.2,2,0
+481,0,11,0,0,0,1,82.58,25.5,3,0
+482,1,53,0,0,1,0,96.88,31.4,3,0
+483,1,78,0,1,1,1,73.32,26,3,0
+484,0,9,0,0,0,0,94.59,20,3,0
+485,1,48,0,0,1,0,132.08,31.6,2,0
+486,1,31,0,0,1,1,98.99,31.2,0,0
+487,0,20,0,0,0,0,104.48,21.7,0,0
+488,0,21,0,0,1,0,98.01,24.2,3,0
+489,1,42,0,0,1,0,79.14,25,1,0
+490,0,35,0,0,1,1,89.32,36.7,3,0
+491,0,53,0,0,0,0,65.24,28.9,3,0
+492,0,60,0,0,1,0,80.98,29.7,1,0
+493,0,74,0,0,1,1,186.17,44.3,3,0
+494,1,23,0,0,0,0,69.24,51,0,0
+495,1,55,0,0,1,0,111.19,39.7,1,0
+496,1,71,0,0,1,1,93.28,34.7,0,0
+497,0,5,0,0,0,0,122.19,35,3,0
+498,1,14,0,0,0,0,129.53,21.3,0,0
+499,1,15,0,0,0,0,114.53,29.1,3,0
+500,1,66,0,0,0,1,93.73,23.9,2,0
+501,1,56,0,0,1,1,77.49,36,1,0
+502,1,60,0,0,1,1,65.38,41.2,1,0
+503,1,57,0,0,1,1,94.18,27.1,0,0
+504,0,29,0,0,1,1,118.7,33.2,3,0
+505,1,76,0,0,1,1,96.29,25.4,2,0
+506,0,52,1,0,1,0,74.64,30.7,2,0
+507,1,42,0,0,1,1,96.99,34.8,1,0
+508,1,71,0,0,1,0,100.61,19.2,3,0
+509,0,64,0,0,1,0,97.08,31.7,3,0
+510,1,39,0,0,1,0,84.79,35.7,0,0
+511,1,46,0,0,1,0,78.75,37.8,1,0
+512,1,51,0,0,1,0,82.93,29.7,2,0
+513,0,31,0,0,1,1,88.78,35.8,2,0
+514,0,22,0,0,0,1,122.1,23.6,2,0
+515,0,41,0,0,0,0,74.81,39.7,2,0
+516,1,28,0,0,1,1,183.45,40.5,2,0
+517,1,44,0,0,1,1,114.94,21.4,0,0
+518,1,68,0,0,1,0,104.38,40.8,1,0
+519,0,49,0,0,1,1,102.91,24.7,3,0
+520,0,10,0,0,0,0,108.79,21,3,0
+521,1,31,0,0,1,1,73.31,45,0,0
+522,0,67,0,0,1,1,68.52,26.2,0,0
+523,0,40,0,0,1,0,89.77,48.2,2,0
+524,0,70,0,0,1,1,102.64,28.3,0,0
+525,1,38,0,0,1,1,70.92,41.6,0,0
+526,1,5,0,0,0,0,86.11,19,3,0
+527,1,54,0,0,1,1,129.16,32.4,0,0
+528,1,30,0,0,1,1,113.85,34,0,0
+529,1,23,0,0,1,0,79.35,39.4,1,0
+530,1,31,0,0,1,0,80.79,28.7,3,0
+531,0,72,1,0,1,1,114.01,31.8,1,0
+532,0,23,0,0,0,0,93.74,31.2,0,0
+533,1,25,0,0,1,0,90.65,20.9,3,0
+534,0,51,0,0,1,1,98.41,32.1,0,0
+535,1,20,0,0,0,1,127.18,31,3,0
+536,1,12,0,0,0,1,138.06,23.1,3,0
+537,0,57,0,0,1,1,89.44,26.7,0,0
+538,0,65,0,0,1,1,105.61,27.9,3,0
+539,1,16,0,0,0,0,155.43,27.3,0,0
+540,1,43,0,0,1,0,80.83,51.5,3,0
+541,1,30,0,0,1,1,80.19,20.4,0,0
+542,0,29,0,0,1,1,60.34,29.6,1,0
+543,1,54,0,0,1,1,79.3,30.6,1,0
+544,1,57,0,0,1,1,98.44,33.6,3,0
+545,0,42,0,0,1,0,210.48,71.9,0,0
+546,0,18,0,0,0,0,70.34,24.2,3,0
+547,0,9,0,0,0,1,122.22,17.7,3,0
+548,1,26,0,0,1,0,75.29,22.6,2,0
+549,0,40,0,0,0,0,100.35,28.1,0,0
+550,0,77,0,0,1,1,193.83,26.5,0,0
+551,1,15,0,0,0,1,126.96,28.7,3,0
+552,1,76,0,0,1,1,183.34,39.5,1,0
+553,0,52,0,0,1,1,247.69,35.1,3,0
+554,1,55,0,0,1,0,76.2,27.9,0,0
+555,0,5,0,0,0,0,71.43,19.3,3,0
+556,1,55,0,0,0,0,93.36,28.4,0,0
+557,0,36,0,0,0,1,61.29,26.7,0,0
+558,0,46,0,0,1,1,103.62,40.9,3,0
+559,0,5,0,0,0,0,100.52,17.2,3,0
+560,1,39,0,0,1,0,191.47,28.3,0,0
+561,0,12,0,0,0,1,67.06,16.1,3,0
+562,0,67,0,1,1,1,144.1,27.6,0,0
+563,1,1.8,0,0,0,1,58.26,16.5,3,0
+564,1,72,0,0,1,1,239.82,35.8,0,0
+565,1,0.32,0,0,0,0,73.71,16.2,3,0
+566,1,64,1,0,1,0,88.53,24.6,0,0
+567,0,27,0,0,0,1,114.79,32,3,0
+568,0,25,0,0,0,0,113.8,35.3,1,0
+569,1,81,0,0,0,1,71.91,19.2,3,0
+570,1,32,0,0,0,1,65.3,40.4,0,0
+571,0,57,0,0,1,1,189.57,30.7,0,0
+572,1,52,1,0,1,1,114.25,24.3,1,0
+573,0,54,0,0,1,1,81.26,26.4,1,0
+574,1,36,0,0,1,1,87.88,34.7,2,0
+575,0,18,0,0,0,1,112.17,31.7,3,0
+576,0,45,0,0,1,0,99.97,35.6,0,0
+577,0,29,0,0,0,1,207.58,22.8,2,0
+578,1,51,1,0,1,1,109.16,28,2,0
+579,1,23,0,0,0,1,74.46,35.6,1,0
+580,1,54,0,0,1,0,118.51,40.6,0,0
+581,1,54,0,0,1,1,107.47,29.3,1,0
+582,0,18,0,0,0,0,182.86,21,3,0
+583,1,26,0,0,1,0,59.17,20,3,0
+584,0,72,0,0,1,0,215.64,26.7,1,0
+585,0,5,0,0,0,0,163.7,18.4,3,0
+586,1,65,0,1,1,0,196.36,34.5,1,0
+587,1,42,0,0,0,0,139.77,27.7,3,0
+588,1,47,0,0,1,1,141.23,21.1,0,0
+589,1,24,0,0,1,1,89.99,24.4,1,0
+590,0,57,0,0,1,1,108.53,19.4,2,0
+591,0,51,0,0,1,1,63.61,42.3,3,0
+592,0,48,0,0,1,1,85.54,32.2,2,0
+593,1,56,0,0,1,1,100.83,26.8,0,0
+594,1,30,0,0,1,1,59.82,25.4,0,0
+595,1,63,1,0,1,1,105.95,23.5,2,0
+596,1,46,0,0,1,0,188.11,50.2,2,0
+597,1,53,0,0,1,1,71.15,26.1,1,0
+598,1,1.08,0,0,0,0,60.53,17.5,3,0
+599,0,15,0,0,0,0,205.5,24.2,0,0
+600,1,59,1,0,1,1,204.86,30.8,0,0
+601,1,24,0,0,0,0,115.03,23.4,0,0
+602,0,53,0,0,1,0,79.87,30.9,0,0
+603,1,39,0,0,1,0,97.89,23.6,0,0
+604,0,23,0,0,0,1,125.26,18.7,0,0
+605,0,31,0,0,1,0,114.32,27.7,2,0
+606,0,5,0,0,0,1,92.23,16.7,3,0
+607,0,44,0,0,1,1,83.51,31.2,0,0
+608,1,1.8,0,0,0,1,102.34,17,3,0
+609,0,40,0,0,1,0,144.48,29.8,2,0
+610,0,7,0,0,0,0,88.39,19.7,3,0
+611,1,56,0,0,1,0,228.08,29.1,3,0
+612,0,42,0,0,1,1,93.79,27.2,0,0
+613,0,48,0,0,1,0,147.14,22.3,3,0
+615,1,52,0,0,0,0,88.04,42.1,0,0
+616,1,42,0,0,1,1,92.2,34.2,3,0
+617,1,73,0,0,1,1,219.53,40.9,0,0
+618,1,55,0,0,1,0,75.56,29.4,2,0
+619,0,50,0,0,1,1,158.31,32.8,1,0
+620,0,43,0,0,1,1,111.43,21.9,2,0
