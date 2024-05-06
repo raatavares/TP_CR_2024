@@ -45,8 +45,7 @@ function [] = cbr()
     disp('Biblioteca atualizada:');
     disp(caseLibrary);
 
-    % Guarda tabela em .csv outravez
-
+    % Guarda tabela em .csv outra vez
     writetable(caseLibrary, 'TrainPrep.csv', 'Delimiter', ';');
 
 end

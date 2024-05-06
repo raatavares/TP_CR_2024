@@ -1,4 +1,4 @@
-function [totalAccuracy, testAccuracy, timeElapsed] = feedfowardTRAIN(layerNeurons,epochs,trainFunc,divFunc,evalFunc,trainRatio,valRatio,testRatio)
+function [totalAccuracy, testAccuracy, timeElapsed] = feedforwardTRAIN(layerNeurons,epochs,trainFunc,divFunc,evalFunc,trainRatio,valRatio,testRatio)
 
 % Lê os dados do arquivo TrainPrep.csv
 dataMatrix = readmatrix('TrainPrep.csv',"Delimiter", ";", "DecimalSeparator", ".");

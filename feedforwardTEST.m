@@ -1,4 +1,4 @@
-function [] = feedfowardTeste()
+function [] = feedforwardTeste()
 
     % Obtem dados do TrainFiltered.csv
     file = 'Test.csv';
