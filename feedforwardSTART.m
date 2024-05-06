@@ -1,4 +1,4 @@
-function [] = feedfowardSTART()
+function [] = feedforwardSTART()
 
     % Inicia a contagem do tempo de execução
     executionTime = tic;
@@ -33,7 +33,7 @@ function [] = feedfowardSTART()
         neuralNet.trainParam.showWindow = 0;
 
         % Define as funções de ativação para as camadas
-        neuralNet.layers{1}.transferFcn = 'logsig';
+        neuralNet.layers{1}.transferFcn = 'tribas';
         neuralNet.layers{2}.transferFcn = 'purelin';
 
         % Treina a rede neural com os dados de entrada e alvo

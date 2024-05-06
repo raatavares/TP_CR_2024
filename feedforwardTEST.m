@@ -1,4 +1,4 @@
-function [] = feedforwardTeste()
+function [] = feedforwardTEST()
 
     % Obtem dados do TrainFiltered.csv
     file = 'Test.csv';
@@ -9,26 +9,47 @@ function [] = feedforwardTeste()
     
     tempoExecucao = tic;
     
-    % Inicializa a rede
-    load(Rede1.mat); % meter o nome da rede a testar 
+    % Inicializa as redes
+    load('Rede1.mat');
+    net1 = net;
+    load('Rede2.mat');
+    net2 = net;
+    load('Rede3.mat');
+    net3 = net;
     
-    % Testa a rede
-    output = sim(net, input);
-    error = perform(net, target, output);
+    % Testa as redes
+    output1 = sim(net1, input);
+    error1 = perform(net1, target, output1);
+    r1 = sum(output1 == target);
+    precisaoTotal1 = 100*r1/size(target,2);
     
-    r = sum(output == target);
-    precisaoTotal = 100*r/size(target,2);
+    output2 = sim(net2, input);
+    error2 = perform(net2, target, output2);
+    r2 = sum(output2 == target);
+    precisaoTotal2 = 100*r2/size(target,2);
     
-    disp('Precisão total:');
-    disp(precisaoTotal);
+    output3 = sim(net3, input);
+    error3 = perform(net3, target, output3);
+    r3 = sum(output3 == target);
+    precisaoTotal3 = 100*r3/size(target,2);
     
-    disp('Erro:');
-    disp(error);
+    disp('Precisão total Rede 1:');
+    disp(precisaoTotal1);
+    disp('Erro Rede 1:');
+    disp(error1);
+    
+    disp('Precisão total Rede 2:');
+    disp(precisaoTotal2);
+    disp('Erro Rede 2:');
+    disp(error2);
+    
+    disp('Precisão total Rede 3:');
+    disp(precisaoTotal3);
+    disp('Erro Rede 3:');
+    disp(error3);
     
     tempo = toc(tempoExecucao);
     disp('Tempo de execução:');
     disp(tempo);
     
-    
-    end
-
+end
