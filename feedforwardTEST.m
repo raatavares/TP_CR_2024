@@ -1,3 +1,5 @@
+%Ainda não está pronto, mas é para testar as redes treinadas com os dados de teste
+
 function [] = feedforwardTEST()
 
     % Obtem dados do TrainFiltered.csv
@@ -11,11 +13,11 @@ function [] = feedforwardTEST()
     
     % Inicializa as redes
     load('Rede1.mat');
-    net1 = net;
+    net1 = network;
     load('Rede2.mat');
-    net2 = net;
+    net2 = network;
     load('Rede3.mat');
-    net3 = net;
+    net3 = network;
     
     % Testa as redes
     output1 = sim(net1, input);
