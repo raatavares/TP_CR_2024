@@ -98,10 +98,15 @@ function [totalAccuracy, testAccuracy, timeElapsed] = feedforwardTRAIN(layerNeur
         % Ordena a estrutura em ordem decrescente de precisão
         bestNetworks = sortStruct(bestNetworks, 'accuracy', 'descend');
     
-        % Guarda as três melhores redes
+        % Verifica se a pasta 'Redes' existe, se não, cria
+        if ~exist('Redes', 'dir')
+           mkdir('Redes')
+        end
+    
+        % Guarda apenas as três melhores redes
         for i = 1:min(3, length(bestNetworks))
             network = bestNetworks(i).network;
-            save(['Rede' num2str(i)  '.mat'], 'network');
+            save(['Redes/Rede' num2str(i)  '.mat'], 'network');
         end
     end
     

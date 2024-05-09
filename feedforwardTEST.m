@@ -6,11 +6,11 @@ function [] = feedforwardTEST()
 
     tempoExecucao = tic;
 
-    load('Rede1.mat');
+    load('Redes/Rede1.mat');
     net1 = network;
-    load('Rede2.mat');
+    load('Redes/Rede2.mat');
     net2 = network;
-    load('Rede3.mat');
+    load('Redes/Rede3.mat');
     net3 = network;
 
     output1 = sim(net1, input);
