@@ -9,12 +9,16 @@ function [caseIndexes, caseSimilarities, inputCase] = retrieve(caseLibrary, inpu
 % 7 - avg_glucose_level
 % 8 - bmi
 % 9 - smoking_status
+
+% Os pesos para cada fator são definidos
 factorWeights = [1 5 5 5 2 1 4 4 5];
 
+% Os valores máximos para cada fator na biblioteca de casos são obtidos
 maxValues = get_max_values(caseLibrary);
 caseIndexes = [];
 caseSimilarities = [];
 
+% Para cada caso na biblioteca de casos é calculada a distância
 for i=1:size(caseLibrary,1)
     factorDistances = zeros(1,9);
     
@@ -55,10 +59,12 @@ for i=1:size(caseLibrary,1)
 end
 end
 
+% A função linear_distance calcula a distância linear entre dois valores
 function [distance] = linear_distance(val1,val2)
     distance = sum(abs(val1 - val2));
 end
 
+% A função smoking_status_distance calcula a distância para o status de fumante
 function [distance] = smoking_status_distance(val1,val2)
 if val1 == 3 || val2 == 3
     distance = 4;
@@ -67,6 +73,7 @@ else
 end
 end
 
+% A função get_max_values obtém os valores máximos para cada fator na biblioteca de casos
 function [maxValues] = get_max_values(caseLibrary)
 
 key_set = {'gender', 'age', 'hypertension', 'heart_disease', 'ever_married', 'Residence_type', 'avg_glucose_level', 'bmi', 'smoking_status'};
